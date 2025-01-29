@@ -8,8 +8,8 @@ This C program allows for the management of student data, including adding stude
 - Student ID, name, course details, and grades are stored in a database.
 
 ## Requirements:
-- **C Compiler** (e.g., GCC)
-- **Header files** for I/O operations (standard libraries)
+- **C Compiler**
+- **Header files** for I/O operations
 
 ## Setup:
 
@@ -22,7 +22,7 @@ Change to the project directory:
 cd student_database_project
 
 ### Step 3: Compile the C files
-Use a C compiler (e.g., GCC) to compile the program:
+Use a C compiler to compile the program:
 gcc main.c studentDatabase_lib.c -o student_database
 
 ### Step 4: Run the program
