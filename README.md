@@ -54,7 +54,8 @@ Input your choice:
 
 ## Project Structure:
 student_database_project/
-├── main.c                # Main driver file
+
+├── studentDatabase.c                # Main driver file
 
 ├── studentDatabase_lib.c # Functions for adding and displaying student records
 
