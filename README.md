@@ -55,8 +55,11 @@ Input your choice:
 ## Project Structure:
 student_database_project/
 ├── main.c                # Main driver file
+
 ├── studentDatabase_lib.c # Functions for adding and displaying student records
+
 ├── studentDatabase_lib.h # Header file with function prototypes and structures
+
 └── README.md             # This README file
 
 ## License:
